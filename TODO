@@ -1,0 +1,21 @@
+TODO
+
+Particle Effects:
+	- player gets ammo
+	- player got hit by bullet
+	- player gets health
+Audio:
+	- Health Pickup Sound
+	- bullet collision sound for enemy and player
+Game Manager
+	- title screen
+	- play game
+	- restart game
+	- easy/medium/hard game
+Health/Ammo
+	- track health
+	- track ammo
+	- spawn ammo/health from enemies
+
+spwan pickup on enemy body after death
+let enemies fire randomly

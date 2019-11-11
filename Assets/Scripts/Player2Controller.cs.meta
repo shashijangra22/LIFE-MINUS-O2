@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e4d3af7e8a0a4fbda1ad7fb96667fec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerRb: {instanceID: 0}
+  - ammoPrefab: {fileID: 3209769042674252046, guid: 4007b15f1a90c424e999d10c0064d1fc,
+      type: 3}
+  - gameManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
